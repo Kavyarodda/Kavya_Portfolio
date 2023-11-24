@@ -1,14 +1,17 @@
 # Kavya_Portfolio
 Data science portfolio
 
-###Education
+#Education
 BE in ELectronics and Communication
 
-###Work Experience
+#Work Experience
 Software Engineer(Data Scientist) at Ltimindtree
 
-###Projects
--Project1: Customer satisfaction Analysis Project
--Project2: Netflix movie recommendation engine
--Project3: Walmart time series data prediction
+#Projects
+
+1.Project1: Customer satisfaction Analysis Project
+
+2.Project2: Netflix movie recommendation engine
+
+3.Project3: Walmart time series data prediction
 
