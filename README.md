@@ -1,17 +1,22 @@
+
 # Kavya_Portfolio
 Data science portfolio
 
-#Education
-BE in ELectronics and Communication
-
-#Work Experience
-Software Engineer(Data Scientist) at Ltimindtree
-
 #Projects
 
-1.Project1: Customer satisfaction Analysis Project
+##1.Project1: Customer satisfaction Analysis Project
+Working on the Customer Satisfaction analysis Project, using machine learning, python, NLP and Data
+visualization.
 
-2.Project2: Netflix movie recommendation engine
+##Project2: Netflix movie recommendation engine
+Objective: Optimized and deployed a Machine Learning model to recommend movies based on the
+watch history and genre.
+Operations: EDA, Label Encoding, Scaling using Sklearn.
+Model Used: SVD
 
-3.Project3: Walmart time series data prediction
+##Project3: Walmart Sales Forecasting
+Objective: Optimized and deployed a Machine Learning model to predict the sales of Walmart for the
+next 12 weeks using sklearn.
+Operations: EDA, Label Encoding, Scaling.
+Model: Time series forecasting.
 
